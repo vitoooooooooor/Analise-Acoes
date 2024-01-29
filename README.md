@@ -1,2 +1,3 @@
-# Analise-Acoes
-Automação que usa dados do Yahoo Finance para visualização de dados de ações // Automation that uses Yahoo Finance data for data and visualization 
+Download example1.hmtl for a visualization 
+
+This code uses data from Yahoo Finance to analyse stocks and make predctions using machine learning, all with python
